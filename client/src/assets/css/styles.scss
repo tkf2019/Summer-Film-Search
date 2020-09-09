@@ -1,0 +1,84 @@
+.button-pack-sky {
+  button {
+    background-color: #66cccc;
+  }
+}
+.sky {
+  background:#2C3E50;
+  .article-content {
+    background-color: #339999;
+  }
+  .article-total {
+    color: rgb(27, 41, 39);
+  }
+  .search-button {
+    background-color: #339999;
+  }
+  .comment-span {
+    background-color: #339999;
+  }
+}
+
+.button-pack-nature {
+  button {
+    background-color: #339933;
+  }
+}
+.nature {
+  background: #19CAAD;
+  .article-content {
+    background-color: #336666;
+  }
+  .article-total {
+    color: rgb(94, 187, 128);
+  }
+  .search-button {
+    background-color: #336666;
+  }
+  .comment-span {
+    background-color: #336666;
+  }
+}
+
+.button-pack-planet {
+  button {
+    background-color: #152556;
+  }
+}
+.planet {
+  background: rgb(9, 9, 9, 0.9);
+  .article-content {
+    background-color: #003366;
+  }
+  .article-total {
+    color: rgb(53, 116, 193);
+  }
+  .search-button {
+    background-color: #003366;
+  }
+  .comment-span {
+    background-color: #003366;
+  }
+}
+
+.button-pack-twilight {
+  button {
+    background-color: #cc0033;
+  }
+}
+.twilight {
+  background: #F4606C;
+  .article-content {
+    background-color: rgb(167, 50, 90);
+  }
+  .article-total {
+    color: white;
+  }
+  .search-button {
+    background-color: rgb(167, 50, 90);
+  }
+  .comment-span {
+    background-color: rgb(167, 50, 90);
+  }
+}
+
